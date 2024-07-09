@@ -3,3 +3,53 @@
 /tcJava/Poo/nbproject/private/
 /tcJava/Poo/build/
 /tcJava/Herencia/nbproject/private/
+/tcJava/Encapsulamiento/nbproject/private/
+/tcJava/Encapsulamiento/build/
+
+# Directorios específicos de NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+.nb-gradle-private/
+
+# Archivos y directorios de compilación de Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Archivos de configuración del IDE
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de registro
+*.log
+
+# Archivos de configuración específicos de Windows
+*.exe
+*.dll
+*.pdb
+*.obj
+*.lib
+
+# Archivos de configuración específicos de Maven (si usas Maven)
+target/
+
+# Archivos específicos de Gradle (si usas Gradle)
+.gradle/
+build/
+
+# Archivos específicos de Eclipse (si usas Eclipse)
+.project
+.classpath
+.cproject
+.settings/
