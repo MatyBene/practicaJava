@@ -1,0 +1,9 @@
+Tipos de datos y variables:
+	Realizar un programa que permita el intercambio de valores entre dos variables. Por ejemplo: Si una variable numero vale 35, y una variable numero2 vale 20, realizar las acciones necesarias para que numero pase a valer 20 y numero2 pase a valer 35. Una vez realizado el cambio mostrar el resultado por pantalla.
+
+Estructuras Selectivas (Condicionales):
+	Una despensa desea calcular los sueldos de sus empleados. Los puestos de los mismos pueden tener 3 categorias: 1. repositor, 2. cajero, 3. supervisor.
+- Los repositores cobran $15890 + un bono del 10%
+- Los cajeros cobran $25630,89 fijos
+- Los supervisores cobran $33560,20 en bruto al cual se les descuenta un 11% de jubilacion
+Se necesita un programa que, dependiendo del tipo de empleado del que se trate, calcule y muestre en pantalla el correspondiente sueldo.
